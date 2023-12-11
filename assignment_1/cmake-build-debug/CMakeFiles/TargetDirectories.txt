@@ -1,0 +1,3 @@
+D:/I/Structuri de date si algoritmi/lab/assignment_1/cmake-build-debug/CMakeFiles/assignment_1.dir
+D:/I/Structuri de date si algoritmi/lab/assignment_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/I/Structuri de date si algoritmi/lab/assignment_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
